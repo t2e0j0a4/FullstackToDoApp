@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+.lineDivider {
+    width: 98%;
+    height: 1px;
+    margin: 32px auto;
+    border-radius: 50%;
+}
+
+.height {
+    height : 80vh !important;
+}
+
+.btnLight {
+    background-color: #fff !important;
+    border: 2px solid #d1d1d1 !important;
+    outline: none !important;
+    color: black;
+}
+
+.pointer {
+    cursor: default;
+}
+
+.backgroundC {
+    background-color: #232323 !important;
+}
+
+.backgroundS {
+    background-color: #919191 !important;
+    color: #000 !important;
+}
+
+.backgroundN {
+    background-color: #131212 !important;
+}
+
+.pfont {
+    font-family: 'Poppins', sans-serif;
+}
+
+.rotate {  
+    animation-name: ani-rotate;
+    animation-duration: 30s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+}
+ 
+@keyframes ani-rotate {
+    0%{ transform: rotate(0); }
+    100%{ transform: rotate(360deg); }  
+}
