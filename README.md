@@ -32,7 +32,7 @@ Run in your local machine :-
 
 Have any queries can contact me via :-
 - [@Twitter](https://twitter.com/innerteja04/)
-- [@LinkedIn](https://linkedin/com/in/t2e0j0a4/)
+- [@LinkedIn](https://linkedin.com/in/t2e0j0a4/)
 - Checkout my Github : [@Github](https://github.com/t2e0j0a4/)
 
 Yes, you can contribute to this repo :-
